@@ -1,9 +1,10 @@
 ﻿# Install Dependencies
 
-**build= `tsc`
 ** install dependencies -`npm install`
+**build= `tsc`
+**run= `npm run build`
 ** or
-**Try these\*\* - `npm i && npm run build`
+\*\*Try these\*\* - `npm i && npm run build`
 
 ## Env Variables
 
