@@ -2,7 +2,7 @@
 
 ** install dependencies -`npm install`
 **build= `tsc`
-**run= `npm run build`
+**run= `npm run dev`
 ** or
 \*\*Try these\*\* - `npm i && npm run build`
 
@@ -15,5 +15,6 @@ STRIPE_KEY=`stripe secret key`
 
 ## Author
 
-Leetcode- `https://leetcode.com/u/guptashrey163/`
-LinkedIn- `https://www.linkedin.com/in/shrey-gupta-11a350196/`
+Leetcode- [Link](https://leetcode.com/u/guptashrey163/)
+
+LinkedIn- [Link](https://www.linkedin.com/in/shrey-gupta-11a350196/)
